@@ -4,7 +4,7 @@ The Amazon Chime SDK supports sending meeting event notifications to Amazon Even
 
 ## Sending notifications to EventBridge<a name="chime-sdk-eventbridge-notifications"></a>
 
-We recommend sending Amazon Chime SDK event notifications to EventBridge\. For detailed information about using the Amazon Chime SDK with EventBridge, see [Automating the Amazon Chime SDK with EventBridge](https://docs.aws.amazon.com/chime/latest/ag/automating-chime-with-cloudwatch-events.html#events-sdk) in the *Amazon Chime Administrator Guide*\. For information about EventBridge, see the [Amazon EventBridge User Guide](https://docs.aws.amazon.com/eventbridge/latest/userguide/)\.
+We recommend sending Amazon Chime SDK event notifications to EventBridge\. For detaild information about using the Amazon Chime SDK with EventBridge, see [Automating the Amazon Chime SDK with EventBridge](https://docs.aws.amazon.com/chime/latest/ag/automating-chime-with-cloudwatch-events.html#events-sdk) in the *Amazon Chime Administrator Guide*\. For information about EventBridge, see the [Amazon EventBridge User Guide](https://docs.aws.amazon.com/eventbridge/latest/userguide/)\.
 
 ## Sending notifications to Amazon SQS and Amazon SNS<a name="chime-sdk-sqs-sns-notifications"></a>
 
